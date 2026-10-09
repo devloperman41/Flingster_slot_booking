@@ -1,5 +1,5 @@
 Flingebook - How to Use
-
+  https://replit-design-project--devlopermman43.replit.app/
 Flingebook is a private access slot booking system.
 You can book hourly private access slots and receive an access code after payment.
 
@@ -12,9 +12,7 @@ HOW TO BOOK
 
 2. Select your preferred date and time slot (hourly slots available for the next 5 days).
 
-3. You can select multiple slots. Consecutive slots will get only one access code.
-
-4. Enter your email address.
+3. You can select multiple slots. Consecutive slots will get only one access code
 
 5. Complete the payment using Razorpay (UPI / Cards).
 
