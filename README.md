@@ -8,7 +8,7 @@ HOW TO BOOK
 ========================================
 
 1. Open the booking website:
-   replit://repl/@devlopermMan43/Replit-Design-Project
+   https://replit-design-project--devlopermman43.replit.app
 
 2. Select your preferred date and time slot (hourly slots available for the next 5 days).
 
